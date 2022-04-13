@@ -36,3 +36,5 @@ const runMain = async () => {
 };
 
 runMain();
+
+//this script is for testing in hardhat without actually deploying to a testnet or mainnet.
