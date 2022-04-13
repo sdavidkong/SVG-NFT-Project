@@ -27,3 +27,5 @@ const main = async () => {
   };
   
   runMain();
+
+//this script is actually for deploying.
